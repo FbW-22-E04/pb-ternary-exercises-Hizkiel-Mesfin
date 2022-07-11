@@ -1,7 +1,7 @@
 //#1
 const isDog = true;
 
-console.log(isDog === true ? "pat, pat" : "find me a dog to pat!");
+console.log(isDog === true ? "pat, pat, good dog" : "find me a dog to pat!");
 
 //#2
 const speedLimit = 50;
@@ -29,7 +29,7 @@ console.log(isStudent === true ? "Ticket costs €5,00" : "Ticket costs €12,00
 
 const okMarie = "cake";
 
-console.log(okMarie === "cake" ? "Let then eat cake" : "Oh, bother");
+console.log(okMarie == "cake" ? "Let then eat cake" : "Oh, bother");
 
 //#6
 
